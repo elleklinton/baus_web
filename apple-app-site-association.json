@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "67M5KYXD22.com.altroai.SpotifyPlaylistMaker",
+                "paths": [
+                    "/open/*",
+                ]
+            },
+        ]
+    },
+}
